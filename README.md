@@ -11,8 +11,14 @@
 
 # 📖 Space Travelers' Hub <a id="about-project"></a>
 
->  A website built with React, Redux, MUI, SpaceX API, and CSS. Some of the features are: a user can reserve rockets, can register and join missions, and can see his/her reservation details in his profile section. The user can also cancel the reservation any time.
-
+>  A website built with React, Redux, MUI, SpaceX API, and CSS. 
+>  `
+>  **Some of the features are:**
+>  - user can reserve rockets
+>  - user can register and join missions
+>  - user can see his/her reservation details in his profile section
+>  - user can also cancel the reservation any time.
+>  `
 Please click on the video below to more explanation
 
 ## Video for explanation
