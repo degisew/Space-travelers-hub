@@ -9,36 +9,9 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 Space Travelers' Hub <a id="about-project"></a>
 
->  In this task, we will be working with the real live data from the SpaceX API. Our task is to build a web application for a company that provides commercial and scientific space travel services.
-
-**Space Travelers' Hub** is a an application which can allow users to book rockets and join selected space missions.
+>  A website built with React, Redux, MUI, SpaceX API, and CSS. Some of the features are: a user can reserve rockets, can register and join missions, and can see his/her reservation details in his profile section. The user can also cancel the reservation any time.
 
 Please click on the video below to more explanation
 
@@ -77,7 +50,7 @@ Please click on the video below to more explanation
 
 > Please click the link below to open our webpage in your browser
 
-- [Live Demo Link](https://spacetravelersod.netlify.app/)
+- [Live Demo Link]( https://degisew-space-travelers-hub.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
